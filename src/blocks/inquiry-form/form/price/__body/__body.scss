@@ -3,7 +3,7 @@
     position: absolute;
     z-index: 200;
     left: 2.9rem;
-    top: 69.8rem;
+    top: 70.2rem;
     transform: translate(0, 0);
     width: 19rem;
     display: none;
@@ -19,7 +19,7 @@
     .price__body {
         width: 19rem;
         left: 2.2rem;
-        top: 65.2rem;
+        top: 64.7rem;
         transform: translate(0, 0);
     }
 }
@@ -27,7 +27,7 @@
 @media only screen and (max-width: 35.49em) {
     .price__body {
         z-index: 500;
-        top: 28.3rem;
+        top: 28.8rem;
         left: 0;
         width: 49.4rem;
         transform: translate(0, -50%);
